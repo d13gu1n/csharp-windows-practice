@@ -59,7 +59,14 @@ activity8.Act8(); */
 
 // Activity 9
 
-Activity9 activity9 = new Activity9();
-activity9.Act9();
+/* Activity9 activity9 = new Activity9();
+activity9.Act9(); */
 
 // End of Activity 9
+
+// Activity 10
+
+Activity10 activity10 = new Activity10();
+activity10.Act10();
+
+// End of Activity 10
