@@ -66,7 +66,14 @@ activity9.Act9(); */
 
 // Activity 10
 
-Activity10 activity10 = new Activity10();
-activity10.Act10();
+/* Activity10 activity10 = new Activity10();
+activity10.Act10(); */
 
 // End of Activity 10
+
+// Activity 11
+
+Activity11 activity11 = new Activity11();
+activity11.Act11();
+
+// End of Activity 11
