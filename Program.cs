@@ -73,7 +73,28 @@ activity10.Act10(); */
 
 // Activity 11
 
-Activity11 activity11 = new Activity11();
-activity11.Act11();
+/* Activity11 activity11 = new Activity11();
+activity11.Act11(); */
 
 // End of Activity 11
+
+// Activity 12
+
+/* Activity12 activity12 = new Activity12();
+activity12.Act12(); */
+
+// End of Activity 12
+
+// Activity 13
+
+/* Activity13 activity13 = new Activity13();
+activity13.Act13(); */
+
+// End of Activity 13
+
+// Activity 14
+
+Activity14 activity14 = new Activity14();
+activity14.Act14();
+
+// End of Activity 14
